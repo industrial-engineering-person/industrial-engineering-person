@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @industrial-engineering-person
+- 👀 I’m interested in developing bigdata engineering with aws
+- 🌱 I’m currently learning bigdata processing
+- 💞️ I’m looking to collaborate on data-engineering team. Really i hope so
+- 📫 How to reach me ... sjaqj888@naver.com
